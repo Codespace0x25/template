@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pX/WRsjv3dc=",
+  "success": true,
+  "projectFilePath": "/home/olivia/Documents/project/templates/Dotnet/basic/basic.csproj",
+  "expectedPackageFiles": [
+    "/home/olivia/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
