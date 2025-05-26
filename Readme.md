@@ -108,12 +108,3 @@ sudo rm /usr/bin/template
 sudo rm -r /usr/share/templates
 ```
 
----
-
-Let me know if you'd like:
-
-* Shell autocompletion
-* `template list` command help
-* A `--force` overwrite flag
-
-Or I can convert this to `man` page style.
